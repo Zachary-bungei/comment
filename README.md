@@ -17,7 +17,7 @@ body{
 form{
     background-color: light-blue;
     border-radius: 3px;
-    width: 80%;
+    width: 800px;
     outline: 1px. solid purple;
     padding: 30px;
     
@@ -26,7 +26,7 @@ input, textarea{
    width: 100px; 
 }
 </style>
-</head>
+
 <body>
  <h1>Send a Comment</h1> <br>
     <form id="commentForm">
