@@ -4,8 +4,8 @@ event. preventDefault();
 const senderEmail = document. getElementById( ' senderEmail' ).value;
 const comment = document. getElementById( 'comment' ).value;
 민
-// Send email to Zacharia.chemoiwo@mpesafoundationacademy.ac.ke
-console. log(Email Sent to Zacharia. chemoiwo@mpesafoundationacademy.ac.ke from ${senderEmail}: ${comment}*);
+// Send email to Zacharia.chemoiywo@mpesafoundationacademy.ac.ke
+console. log(Email Sent to Zacharia.chemoiywo@mpesafoundationacademy.ac.ke from ${senderEmail}: ${comment}*);
 // You can add code here to actually send the email
 Сору
 Revert
