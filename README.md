@@ -9,7 +9,7 @@
     </head>
  <style>
 body{
-   background-color: lightblur;
+   background-color: lightblue;
    text-align: cener;
    display: flex;
     
