@@ -17,7 +17,7 @@ body{
 form{
     background-color: light-blue;
     border-radius: 3px;
-    width: 200px;
+    width: 300px;
     outline: 1px. solid purple;
     padding: 30px;
     
