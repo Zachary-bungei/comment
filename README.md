@@ -1,4 +1,5 @@
 <html lang="en">
+</html>
 <head>
     <title>
     <meta charset="UTF-8">
@@ -6,17 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="README.md" href="style.css">
     </title>
-    </head>
+</head>
  <style>
 body{
    background-color: lightblue;
    text-align: cener;
    display: flex;
-    
 }
-#commentForm{
-background-color: red;
-
+form{
+    background-color: white;
+    border-radius: 3px;
+    outline: 1px. solid purple;
+    padding: 30px;
     
 }
 </style>
