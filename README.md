@@ -1,5 +1,5 @@
 <html lang="en">
-</html>
+<html>
 <head>
     <title>
     <meta charset="UTF-8">
@@ -10,13 +10,14 @@
 </head>
  <style>
 body{
-   background-color: red;
+   background-color: plum;
    text-align: cener;
    display: flex;
 }
 form{
-    background-color: white;
+    background-color: light-blue;
     border-radius: 3px;
+    width: 100px;
     outline: 1px. solid purple;
     padding: 30px;
     
