@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,12 +6,20 @@
     <title>Email Form</title>
  <style>
 body{
-background-color: plum;
+   background-color: lightblur;
+   text-align: cener;
+   display: flex;
+    
+}
+#commentForm{
+background-color: red;
+
+    
 }
 </style>
 </head>
 <body>
-    <h1>Send a Comment</h1> <br>
+ <h1>Send a Comment</h1> <br>
     <form id="commentForm">
         <label for="senderEmail">Your Email:</label><br>
         <input type="email" id="senderEmail" name="senderEmail"><br>
