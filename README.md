@@ -31,6 +31,6 @@ background-color: red;
         <button type="submit">Submit</button>
     </form>
 
-    <script src="script.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
