@@ -1,0 +1,11 @@
+body{
+  bacground-color: plume;
+  text-align: center;
+  display: flex;
+}
+form{
+  outline: 1px solid red;
+  padding: 45px;
+  background-color: lightblue;
+  
+}
