@@ -21,6 +21,9 @@ form{
     padding: 30px;
     
 }
+input, textarea{
+   width: 100px; 
+}
 </style>
 </head>
 <body>
