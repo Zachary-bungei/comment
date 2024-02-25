@@ -18,8 +18,9 @@ form{
         outline: 1px solid green;
     
 }
-input, textarea{
-   width: 100px; 
+form textarea{
+       width: 34px;
+         
 }
 </style>
 
@@ -30,7 +31,7 @@ input, textarea{
         <input type="email" id="senderEmail" name="senderEmail"><br>
         <label for="comment">Comment:</label><br>
         <textarea id="comment" name="comment"></textarea><br>
-        <button type="submit">Submit</button>
+        <button type="submit" onclick="">Submit</button>
     </form>
 
 <script src="main.js"></script>
