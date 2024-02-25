@@ -15,10 +15,7 @@ body{
    display: flex;
 }
 form{
-    background-color: light-blue;
-    border-radius: 3px;
-    outline: 1px. solid purple;
-    padding: 30px;
+        outline: 1px solid green;
     
 }
 input, textarea{
