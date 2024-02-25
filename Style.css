@@ -6,11 +6,12 @@ body{
 form{
   outline: 1px solid red;
   padding: 45px;
+  display: flex;
   border-radius: 5px;
   text-align: center;
   height: 200px;
   width: 100px;
-  background-color: lightblue;
+  background-color: plum;
   
   
 }
