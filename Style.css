@@ -12,3 +12,10 @@ form{
   background-color: lightblue;
   
 }
+form input, textarea{
+  background-color: green;
+  width: 100px;
+  outline: none;
+  border: none;
+  
+} 
