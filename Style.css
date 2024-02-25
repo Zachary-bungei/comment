@@ -22,7 +22,7 @@ form input{
   border: none;
   
 } 
-textarea{
+#comment{
   background-color: green;
   width: 100px;
   outline: none;
