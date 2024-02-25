@@ -6,16 +6,25 @@ body{
 form{
   outline: 1px solid red;
   padding: 45px;
-  border-radius: 2px;
+  border-radius: 5px;
+  text-align: center;
   height: 200px;
   width: 100px;
   background-color: lightblue;
   
+  
 }
-form input, textarea{
+form input{
   background-color: green;
   width: 100px;
   outline: none;
   border: none;
   
 } 
+textarea{
+  background-color: green;
+  width: 100px;
+  outline: none;
+  border: none;
+}
+
