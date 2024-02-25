@@ -10,7 +10,7 @@
 </head>
  <style>
 body{
-   background-color: plum;
+   background-color: lightblue;
    text-align: cener;
    display: flex;
 }
