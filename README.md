@@ -10,17 +10,34 @@
 </head>
  <style>
 body{
-   background-color: lightblue;
-   text-align: cener;
-   display: flex;
+  bacground-color: lightblue;
+  text-align: center;
+  display: flex;
 }
 form{
-        outline: 1px solid green;
-    
+  outline: 1px solid red;
+  padding: 45px;
+  display: flex;
+  border-radius: 5px;
+  text-align: center;
+  height: 200px;
+  width: 100px;
+  background-color: plum;
+  
+  
 }
-form textarea{
-       width: 34px;
-         
+form input{
+  background-color: green;
+  width: 100px;
+  outline: none;
+  border: none;
+  
+} 
+#comment{
+  background-color: green;
+  width: 100px;
+  outline: none;
+  border: none;
 }
 </style>
 
